@@ -1,0 +1,10 @@
+C:\Users\tagir\source\repos\нейросеть\нейросеть\bin\Debug\нейросеть.exe.config
+C:\Users\tagir\source\repos\нейросеть\нейросеть\bin\Debug\нейросеть.exe
+C:\Users\tagir\source\repos\нейросеть\нейросеть\bin\Debug\нейросеть.pdb
+C:\Users\tagir\source\repos\нейросеть\нейросеть\obj\Debug\нейросеть.csproj.AssemblyReference.cache
+C:\Users\tagir\source\repos\нейросеть\нейросеть\obj\Debug\нейросеть.Form1.resources
+C:\Users\tagir\source\repos\нейросеть\нейросеть\obj\Debug\нейросеть.Properties.Resources.resources
+C:\Users\tagir\source\repos\нейросеть\нейросеть\obj\Debug\нейросеть.csproj.GenerateResource.cache
+C:\Users\tagir\source\repos\нейросеть\нейросеть\obj\Debug\нейросеть.csproj.CoreCompileInputs.cache
+C:\Users\tagir\source\repos\нейросеть\нейросеть\obj\Debug\нейросеть.exe
+C:\Users\tagir\source\repos\нейросеть\нейросеть\obj\Debug\нейросеть.pdb
