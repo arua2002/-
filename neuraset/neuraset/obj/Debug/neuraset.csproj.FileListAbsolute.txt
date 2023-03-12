@@ -1,0 +1,10 @@
+C:\Users\tagir\source\repos\neuraset\neuraset\bin\Debug\neuraset.exe.config
+C:\Users\tagir\source\repos\neuraset\neuraset\bin\Debug\neuraset.exe
+C:\Users\tagir\source\repos\neuraset\neuraset\bin\Debug\neuraset.pdb
+C:\Users\tagir\source\repos\neuraset\neuraset\obj\Debug\neuraset.csproj.AssemblyReference.cache
+C:\Users\tagir\source\repos\neuraset\neuraset\obj\Debug\neuraset.Form1.resources
+C:\Users\tagir\source\repos\neuraset\neuraset\obj\Debug\neuraset.Properties.Resources.resources
+C:\Users\tagir\source\repos\neuraset\neuraset\obj\Debug\neuraset.csproj.GenerateResource.cache
+C:\Users\tagir\source\repos\neuraset\neuraset\obj\Debug\neuraset.csproj.CoreCompileInputs.cache
+C:\Users\tagir\source\repos\neuraset\neuraset\obj\Debug\neuraset.exe
+C:\Users\tagir\source\repos\neuraset\neuraset\obj\Debug\neuraset.pdb
